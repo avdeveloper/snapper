@@ -16,5 +16,10 @@ run the server:
 
     foreman start
 
+## How to Use
+Pass the url of the webpage you want to screenshot:
+
+    http://your-server/webpage-to-capture.com
+
 ## Credits
 This is a wrapper for node-webshot by @brenden on github

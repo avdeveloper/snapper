@@ -1,0 +1,14 @@
+{
+  "name": "snapshooter1337",
+  "version": "0.0.1",
+  "author": "Albert Villaroman <avdeveloper@gmail.com>",
+  "description": "An API server that will take snapshots of webpages",
+  "dependencies": {
+    "restify": "2.4.x",
+    "webshot": "0.3.x",
+    "config": "0.4.x"
+  },
+  "engines": {
+    "node": ">=0.8"
+  }
+}
